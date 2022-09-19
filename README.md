@@ -1,4 +1,4 @@
-Aprendendo React, neste caso, aplicações do useState, useEffect e useContext em um site. Página que disponibiliza vários drinks e permite pesquisá-los pelo seu nome através do consumo de uma API. Possui as seguintes funcionalidades:
+Aprendendo React, neste caso, aplicações do useState, useEffect, useContext, useCallback e React Router em um site. Página que disponibiliza vários drinks e permite pesquisá-los pelo seu nome através do consumo de uma API. Possui as seguintes funcionalidades:
 
 - Duas páginas, feitas com o intuito de exercitar o React Router
 - Pesquisar os drinks pelos seus nomes
